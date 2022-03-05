@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<products>
+    <product name="product1" id="one">
+        <!-- should be written in this format for data security-->
+       <!--<![CDATA[Computer]]> --> 
+       
+        <product_id><![CDATA[ 1 ]]></product_id>
+        <product_name name="name"><![CDATA[ Computer]]></product_name>
+        <category_id name="id"><![CDATA[ 2]]></category_id>
+        <units_in_stock name="number-of-product"><![CDATA[ 78]]></units_in_stock>
+        <price name="price"><![CDATA[ 7500$ ]]></price>
+        <country name="country"><![CDATA[ USA ]]></country>
+    </product>
+        
+    <product name="product2" id="one">
+        <product_id><![CDATA[ 2 ]]></product_id>
+        <product_name><![CDATA[ Monitor ]]></product_name>
+        <category_id><![CDATA[ 2 ]]></category_id>
+        <units_in_stock><![CDATA[ 42 ]]></units_in_stock>
+        <price><![CDATA[ 250$ ]]></price>
+        <country><![CDATA[ China ]]></country>
+    </product>
+    <product name="product3" id="one">
+        <product_id><![CDATA[ 3 ]]></product_id>
+        <product_name><![CDATA[ Mouse ]]></product_name>
+        <category_id><![CDATA[ 2 ]]></category_id>
+        <units_in_stock><![CDATA[ 61 ]]></units_in_stock>
+        <price><![CDATA[ 50$ ]]></price>
+        <country><![CDATA[ Japan ]]></country>
+    </product>
+    <product name="product4" id="one">
+        <product_id><![CDATA[ 4 ]]></product_id>
+        <product_name><![CDATA[ Climate ]]></product_name>
+        <category_id><![CDATA[ 8 ]]></category_id>
+        <units_in_stock><![CDATA[ 78]]></units_in_stock>
+        <price><![CDATA[ 7500$ ]]></price>
+        <country><![CDATA[ Germany ]]></country>
+    </product>
+    <product name="product5" id="one">
+        <product_id><![CDATA[ 5 ]]></product_id>
+        <product_name><![CDATA[ Football Ball ]]></product_name>
+        <category_id><![CDATA[ 4 ]]></category_id>
+        <units_in_stock><![CDATA[ 12 ]]></units_in_stock>
+        <price><![CDATA[ 25$ ]]></price>
+        <country><![CDATA[ Brezilia ]]></country>
+    </product>
+    <product name="product6" id="one">
+        <product_id><![CDATA[ 6 ]]></product_id>
+        <product_name><![CDATA[ Bag ]]></product_name>
+        <category_id><![CDATA[ 11 ]]></category_id>
+        <units_in_stock><![CDATA[ 41 ]]></units_in_stock>
+        <price><![CDATA[ 35$ ]]></price>
+        <country><![CDATA[ Greece ]]></country>
+    </product>
+    <product name="product7" id="one">
+        <product_id><![CDATA[ 7 ]]></product_id>
+        <product_name><![CDATA[ Table ]]></product_name>
+        <category_id><![CDATA[ 12 ]]></category_id>
+        <units_in_stock><![CDATA[ 4 ]]></units_in_stock>
+        <price><![CDATA[ 200$ ]]></price>
+        <country><![CDATA[ Turkey ]]></country>
+    </product>
+    <product name="product8" id="one">
+        <product_id><![CDATA[ 8 ]]></product_id>
+        <product_name><![CDATA[ Chair ]]></product_name>
+        <category_id><![CDATA[ 12 ]]></category_id>
+        <units_in_stock><![CDATA[ 15 ]]></units_in_stock>
+        <price><![CDATA[ 100$ ]]></price>
+        <country><![CDATA[ Turkey ]]></country>
+    </product>
+    <product name="product9" id="one">
+        <product_id><![CDATA[ 9 ]]></product_id>
+        <product_name><![CDATA[ Jacket ]]></product_name>
+        <category_id><![CDATA[ 5 ]]></category_id>
+        <units_in_stock><![CDATA[ 12 ]]></units_in_stock>
+        <price><![CDATA[ 150$ ]]></price>
+        <country><![CDATA[ France ]]></country>
+    </product>
+    <product name="product10" id="one">
+        <product_id><![CDATA[ 10 ]]></product_id>
+        <product_name><![CDATA[ Glass ]]></product_name>
+        <category_id><![CDATA[ 9 ]]></category_id>
+        <units_in_stock><![CDATA[ 78]]></units_in_stock>
+        <price><![CDATA[ 10$ ]]></price>
+        <country><![CDATA[ Italia ]]></country>
+    </product>
+</products>
