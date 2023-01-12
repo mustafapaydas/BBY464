@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <products>
-    <product name="product1" id="one">
-        <!-- should be written in this format for data security-->
-       <!--<![CDATA[Computer]]> --> 
+    <product name="product1" id="one"> 
        
         <product_id><![CDATA[ 1 ]]></product_id>
         <product_name name="name"><![CDATA[ Computer]]></product_name>
